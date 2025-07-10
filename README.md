@@ -1,4 +1,4 @@
 # lojavirtual
-banana com arroz sla oq sla oq
+banana com arroz sla oq sla oq 
 
-texto alterado na web
+texto alterado na web :)
